@@ -1,0 +1,35 @@
+{
+  "name": "fetchandsketch-upgrade",
+  "version": "1.0.0",
+  "description": "Fetch and sketch data with an upgraded tool, providing improved functionality and performance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markizpolo/fetchandsketch-upgrade"
+  },
+  "author": "markizpolo",
+  "license": "MIT",
+  "dependencies": {
+    "fetchandsketch": "1.0.0",
+    "fetchandsketch-upgrade": "1.0.0",
+    "multer": "1.0.0",
+    "mongoose": "1.0.0",
+    "jest": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "dotenv": "1.0.0",
+    "axios": "1.0.0",
+    "firebase": "1.0.0",
+    "moment": "1.0.0",
+    "sinon": "1.0.0",
+    "ethers": "1.0.0",
+    "webpack": "1.0.0",
+    "supertest": "1.0.0",
+    "enzyme": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "bluebird": "1.0.0",
+    "xml2js": "1.0.0"
+  }
+}
